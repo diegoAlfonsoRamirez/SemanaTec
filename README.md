@@ -1,2 +1,2 @@
-# SemanaTecCambios en el README - main
+# SemanaTec
 Cambios en el README - main
